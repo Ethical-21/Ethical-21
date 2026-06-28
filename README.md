@@ -8,7 +8,7 @@ _MBIT, CVM University · Gujarat, India_
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jay--tapodhan.vercel.app-6c63ff?style=flat-square&logoColor=white)](https://jay-tapodhan.vercel.app)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-jaytapodhan.dev-6c63ff?style=flat-square&logoColor=white)](https://jaytapodhan.dev/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaytapodhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaytapodhan)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Ethical--21-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ethical-21)&nbsp;
 [![Visitors](https://komarev.com/ghpvc/?username=Ethical-21&style=flat-square&color=6c63ff&label=profile+views)](https://github.com/Ethical-21)
@@ -17,26 +17,30 @@ _MBIT, CVM University · Gujarat, India_
 
 ---
 
+<div align="justify">
+
 I'm a full-stack developer with 3 internships — building AI features at **Flaunch**, enterprise systems at **IBM**, and a production LAN monitoring platform at **Hi Lab Solution**. I care about shipping things that actually work.
 
 🏆 **2nd Runner-Up · Dev Summit 2026** — National Hackathon @ Jagannath University &nbsp;·&nbsp; ₹10,000 prize &nbsp;·&nbsp; CGPA 8.51
 
+</div>
+
 ---
 
-## Experience
+<h2 align="center">💼 Experience</h2>
 
 | Company             | Role                     | Period              |
-| ------------------- | ------------------------ | ------------------- |
+| :------------------ | :----------------------- | :------------------ |
 | **Hi Lab Solution** | Software Engineer Intern | May – Jun 2026      |
 | **IBM**             | Intern                   | Aug – Sep 2025      |
 | **Flaunch**         | AI Intern                | Oct 2024 – Jan 2025 |
 
 ---
 
-## Projects
+<h2 align="center">🚀 Projects</h2>
 
 | Project                                           | What it does                                                                                             | Stack                                   |
-| ------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
 | **InfraEye**                                      | Enterprise LAN monitoring & asset intelligence — Master–Agent architecture, real-time network visibility | FastAPI · React · MongoDB · PyInstaller |
 | **TaskFlow**                                      | Full-stack task management platform                                                                      | React · Node.js · MongoDB               |
 | **CodeTalk** · [↗](https://codetalk-2.vercel.app) | AI-powered code analysis — team project with LLaMA via Groq                                              | React · Vite · TailwindCSS · Groq       |
@@ -44,10 +48,10 @@ I'm a full-stack developer with 3 internships — building AI features at **Flau
 
 ---
 
-## Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 |               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | **Frontend**  | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)                                                                                                    |
 | **Backend**   | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)                                                                                                                                                                                                   |
@@ -57,18 +61,6 @@ I'm a full-stack developer with 3 internships — building AI features at **Flau
 
 ---
 
-## GitHub Stats
-
 <div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Ethical-21&show_icons=true&hide_border=true&bg_color=00000000&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&count_private=true" />
-&nbsp;&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethical-21&layout=compact&hide_border=true&bg_color=00000000&title_color=6c63ff&text_color=c9d1d9" />
-
-</div>
-
----
-
-<div align="center">
-<sub>Open to internships & full-time roles · <a href="https://jay-tapodhan.vercel.app">jay-tapodhan.vercel.app</a></sub>
+<sub>Open to internships & full-time roles · <a href="https://jaytapodhan.dev/">jaytapodhan.dev</a></sub>
 </div>
