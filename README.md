@@ -1,107 +1,174 @@
 <div align="center">
 
-# ⚡ Hey, I'm Jaykumar Tapodhan 👋
+<!-- Animated header using capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00ccff,100:7b2fff&height=200&section=header&text=JAY%20TAPODHAN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20B.Tech%20CSE%20'27&descAlignY=58&descSize=16&animation=twinkling" width="100%" />
 
-**Full-Stack Developer · AI Enthusiast · Computer Engineering Undergraduate**
-
-<br />
-
-<a href="https://jay-tapodhan.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Portfolio-%2300f5ff.svg?style=for-the-badge&logo=vercel&logoColor=black&color=00f5ff&labelColor=0d1117" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/jaytapodhan/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&labelColor=0d1117" alt="LinkedIn"/>
-</a>
-<a href="mailto:jaytapodhan21@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&labelColor=0d1117" alt="Email"/>
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+things+that+actually+ship+%F0%9F%9A%80;Full-Stack+%7C+FastAPI+%7C+React+%7C+AI%2FML;3+Internships+%E2%80%94+IBM%2C+Flaunch%2C+Hi+Lab+Solution;2nd+Runner-Up+%40+Dev+Summit+2026+%F0%9F%8F%86;MBIT+%7C+CVM+University+%7C+CGPA+8.51" alt="Typing SVG" />
 </a>
 
-<br /><br />
-<img src="https://komarev.com/ghpvc/?username=Ethical-21&style=for-the-badge&color=00f5ff&label=Profile+Views&labelColor=0d1117" alt="Profile Views" />
-</div>
+<br/>
 
-<div align="justify">
-
-Building intelligent web apps, enterprise infrastructure, and AI systems at the intersection of full-stack engineering and product ownership.
-
-> **“From enterprise LAN monitoring managing 2,000+ endpoints to AI-powered platforms — I ship things that work.”**
-
-I am a Computer Engineering student (graduating 2027) at MBIT, CVM University (CGPA: 8.58), with production experience across AI integration, backend engineering, and enterprise systems. I have a track record of owning projects end-to-end under real-world deadlines, most recently as a Full-Stack Developer Intern at **Hi Lab Solution**, an AI Technology Intern at **Flaunch**, and a Full-Stack Development Trainee at **IBM**.
+<!-- Snake animation (add your own via GitHub Actions) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ethical-21/Ethical-21/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ethical-21/Ethical-21/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ethical-21/Ethical-21/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
+## `> whoami`
+
+```bash
+$ cat profile.json
+{
+  "name"       : "Jay Tapodhan",
+  "role"       : "Full-Stack Developer",
+  "university" : "MBIT, CVM University",
+  "batch"      : "B.Tech Computer Engineering, 2027",
+  "cgpa"       : 8.51,
+  "location"   : "Gujarat, India 🇮🇳",
+  "achievement": "🏆 2nd Runner-Up — Dev Summit 2026, Jagannath University (₹10,000)",
+  "status"     : "actively building & open to opportunities"
+}
+```
+
+---
+
+## `> experience --list`
+
+<table>
+<tr>
+<td width="60px" align="center">🏢</td>
+<td><strong>Hi Lab Solution</strong><br/><sub>Software Engineer Intern · May–Jun 2026</sub></td>
+<td>Built <strong>InfraEye</strong> — an enterprise LAN monitoring & asset intelligence system with Master–Agent architecture (FastAPI + React + MongoDB + PyInstaller)</td>
+</tr>
+<tr>
+<td align="center">🌐</td>
+<td><strong>IBM</strong><br/><sub>Intern · Aug–Sep 2025</sub></td>
+<td>Worked on enterprise-grade projects in a global tech environment</td>
+</tr>
+<tr>
+<td align="center">🤖</td>
+<td><strong>Flaunch</strong><br/><sub>AI Intern · Oct 2024–Jan 2025</sub></td>
+<td>Built AI-powered features and integrated LLM workflows into production systems</td>
+</tr>
+</table>
+
+---
+
+## `> projects --featured`
 
 <div align="center">
 
-  <b>Languages</b><br>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-
-  <br><br>
-
-  <b>Frameworks & Infrastructure</b><br>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-  <br><br>
-
-  <b>AI / ML & DevOps</b><br>
-  <img src="https://img.shields.io/badge/LLaMA-000000?style=for-the-badge" alt="LLaMA" />
-  <img src="https://img.shields.io/badge/Groq_API-FF6C37?style=for-the-badge" alt="Groq API" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+| Project | Stack | Highlights |
+|---|---|---|
+| 🛰️ **InfraEye** | FastAPI · React · MongoDB · PyInstaller | Enterprise LAN monitoring with real-time asset tracking; built at Hi Lab Solution |
+| ✅ **TaskFlow** | React · Node.js · MongoDB | Full-stack task management platform with intuitive UX |
+| 🍽️ **Flavour with Fusion** | React · TailwindCSS | Recipe & food discovery platform |
+| 🔍 **CodeTalk** | React · Vite · Groq · LLaMA | AI-powered code analysis platform — [live ↗](https://codetalk-2.vercel.app) |
 
 </div>
 
 ---
 
-<div align="justify">
-
-<h2 align="center">💼 Experience & Achievements</h2>
-
-- **Full-Stack Developer Intern @ Hi Lab Solution** — Engineered and shipped `InfraEye`, a massively scalable enterprise LAN monitor managing 2,000+ endpoints.
-- **Full-Stack Trainee @ IBM** — Built `TaskFlow` (team productivity platform). Selected for an exclusive recognition visit to the IBM GIFT City office.
-- **AI Technology Intern @ Flaunch** — Built `Flavour with Fusion` (fallback-resilient AI meal planner). Ranked Top 20 of all interns.
-- **2nd Runner-Up (Rs. 10,000) @ Dev Summit 2026** — National Level Hackathon (Jagannath University).
-
----
-
-<h2 align="center">📈 GitHub Stats</h2>
+## `> skills --tech-stack`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ethical-21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Jay's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ethical-21&theme=tokyonight&hide_border=true&background=0d1117" alt="Jay's GitHub Streak" />
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & AI**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
 
 ---
 
-<h2 align="center">🤝 Let's Connect</h2>
+## `> github --stats`
 
-Currently expanding into DevOps and seeking internship or full-time roles where engineering depth and product ownership drive meaningful impact.
+<div align="center">
 
-- 👨‍💻 **Portfolio:** [jay-tapodhan.vercel.app](https://jay-tapodhan.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/jaytapodhan](https://www.linkedin.com/in/jaytapodhan/)
-- 📧 **Email:** [jaytapodhan21@gmail.com](mailto:jaytapodhan21@gmail.com)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ethical-21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ccff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethical-21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ethical-21&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff88&ring=00ccff&fire=7b2fff&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=c9d1d9" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethical-21&bg_color=0d1117&color=00ff88&line=00ccff&point=7b2fff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
-<br />
+---
+
+## `> trophies --display`
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+<img src="https://github-profile-trophy.vercel.app/?username=Ethical-21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
+## `> connect --all`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jay--tapodhan.vercel.app-00ff88?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://jay-tapodhan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaytapodhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/jaytapodhan)
+[![GitHub](https://img.shields.io/badge/GitHub-Ethical--21-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Ethical-21)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Profile view counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Ethical-21&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00ccff,100:00ff88&height=120&section=footer" width="100%" />
+
 </div>
