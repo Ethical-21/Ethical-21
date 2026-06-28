@@ -42,9 +42,8 @@ I'm a full-stack developer with 3 internships — building AI features at **Flau
 | Project                                           | What it does                                                                                             | Stack                                   |
 | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
 | **InfraEye**                                      | Enterprise LAN monitoring & asset intelligence — Master–Agent architecture, real-time network visibility | FastAPI · React · MongoDB · PyInstaller |
-| **TaskFlow**                                      | Full-stack task management platform                                                                      | React · Node.js · MongoDB               |
-| **CodeTalk** · [↗](https://codetalk-2.vercel.app) | AI-powered code analysis — team project with LLaMA via Groq                                              | React · Vite · TailwindCSS · Groq       |
-| **Flavour with Fusion**                           | Recipe & food discovery web app                                                                          | React · TailwindCSS                     |
+| **TaskFlow** · [↗](https://taskflow-ctm.vercel.app/) | Full-stack task management platform                                                                      | React · Node.js · MongoDB               |
+| **Flavour with Fusion** · [↗](https://flavour-with-fusion-eight.vercel.app/) | Recipe & food discovery web app                                                                          | React · TailwindCSS                     |
 
 ---
 
