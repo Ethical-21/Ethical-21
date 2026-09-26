@@ -15,7 +15,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 B.Tech Computer Engineering @ **MBIT, CVM University** (2023–2027) — CGPA: **8.51**
+- 🎓 B.Tech Computer Engineering @ **MBIT, CVM University** (2023–2027) — CGPA: **8.58**
 - 💼 Ex-AI Intern @ **Flaunch** | Full Stack Trainee @ **IBM**
 - 🏆 **2nd Runner-Up** at Dev Summit 2026 — National Level Hackathon
 - 🤖 Passionate about **Full Stack Development** & **AI/LLM integrations**
